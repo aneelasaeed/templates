@@ -1,0 +1,50 @@
+.navbar-brand{
+    font-size: 30px;
+  }
+  .bannar-title{
+     padding-top: 10rem;
+     
+  }
+  
+  .bannar-title.p lead{
+     color:black ;
+     padding: 10px;
+  }
+  h2{
+     color: #FC5A97;
+     margin: 5px;
+     align-items: center;
+      
+  }
+  .btn1{
+     color: #FC5A97;
+     border:none ; 
+    
+  }
+  .Contactinfo{
+    padding-left: 90px;
+  }
+ 
+   h4{
+    padding: 40px;
+   }
+   .fab{
+    color: #FC5A97;
+   }
+   li{
+    padding-left: 100px;
+  }
+   .footer{
+    display: flex;
+   }
+   .btn{
+      width:100%;
+   }
+   .sectionfooter{
+      background: whitesmoke;
+   }
+   
+
+               
+            
+            
